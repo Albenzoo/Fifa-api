@@ -1,0 +1,33 @@
+{
+  "teams": [
+    {
+      "name": "AC Milan",
+      "stars": 4.5,
+      "country": "Italy",
+      "league": "Serie A",
+      "type": "Club"
+    },
+    {
+      "name": "Real Madrid",
+      "stars": 5,
+      "country": "Spain",
+      "league": "La Liga",
+      "type": "Club"
+    },
+    {
+      "name": "Juventus",
+      "stars": 5,
+      "country": "Italy",
+      "league": "Serie A",
+      "type": "Club"
+    },
+    {
+      "name": "Fc Barcelona",
+      "stars": 5,
+      "country": "Spain",
+      "league": "La Liga",
+      "type": "Club"
+    }
+  ],
+  "leagues": ["Serie A", "La Liga"]
+}
