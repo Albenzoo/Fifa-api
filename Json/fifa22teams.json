@@ -27,6 +27,13 @@
       "country": "Spain",
       "league": "La Liga",
       "type": "Club"
+    },
+    {
+      "name": "FC Internazionale",
+      "stars": 5,
+      "country": "Italy",
+      "league": "Serie A",
+      "type": "Club"
     }
   ],
   "leagues": ["Serie A", "La Liga"]
